@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Katia\Desktop\Algoritm\Day 6th\while\prjCppWhile\prjCppWhile\main.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  prjCppWhile.vcxproj -> C:\Users\Katia\Desktop\Algoritm\Day 6th\while\prjCppWhile\Debug\prjCppWhile.exe
